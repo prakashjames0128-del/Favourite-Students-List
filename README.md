@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Favourite-Students-List
+
+This project was built with React and demonstrates routing, Context API state management, and reusable components.
+
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
